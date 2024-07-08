@@ -1,0 +1,31 @@
+@import "mixin";
+@import "var";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+html{
+    font-size: 10px;
+}
+.mainhead{
+    position: relative;
+
+.container-fluid{
+    padding: 0;
+}
+.banner-media{
+    width: 100%;
+}
+.header{
+    position: absolute;
+    top: 0;
+    background-color: transparent;
+    width: 100%;
+}
+.wrapper-container{
+    @include flex;
+}
+}

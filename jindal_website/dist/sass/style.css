@@ -1,0 +1,31 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 10px;
+}
+
+.mainhead {
+  position: relative;
+}
+.mainhead .container-fluid {
+  padding: 0;
+}
+.mainhead .banner-media {
+  width: 100%;
+}
+.mainhead .header {
+  position: absolute;
+  top: 0;
+  background-color: transparent;
+  width: 100%;
+}
+.mainhead .wrapper-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=style.css.map */

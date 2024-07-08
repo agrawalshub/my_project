@@ -1,0 +1,53 @@
+
+:root {
+    --baseBlack: 0, 0, 0;
+    --baseWhite: 255, 255, 255;
+    --zblack: rgb(var(--baseBlack));
+    --white: rgb(var(--baseWhite));  
+    --primary: #1074BC;
+    --secoundry: #F47920;
+    --trinetry: #22356C;
+    --baseColor: #E1E9F6;
+    --darkBlack: #231F20;
+    --darkblue: #141B23;
+    --baseprimary: #47494E;
+    --basesecondry: #F4EFEB;
+    --basedarkgray: rgba(0, 0, 0, 0.54);
+    --grey: #BCBDC0;
+    --grey2: #F9F9F9;
+    --grey3: #cccccc;
+    --orange: #F58634;
+    --error: #D8000C; 
+    --fs-12: 12px;
+    --fs-13: 13px;
+    --fs-14: 14px;
+    --fs-15: 15px;
+    --fs-16: 16px;
+    --fs-18: 18px;
+    --fs-20: 20px;
+    --fs-22: 22px;
+    --fs-23: 23px;
+    --fs-24: 24px;
+    --fs-25: 25px;
+    --fs-26: 26px;
+    --fs-28: 28px;
+    --fs-30: 30px;
+    --fs-32: 32px;
+    --fs-35: 35px;
+    --fs-36: 36px;
+    --fs-38: 38px;
+    --fs-40: 40px;
+    --fs-42: 42px;
+    --fs-45: 45px;
+    --fs-50: 50px;
+    --fs-60: 60px;
+    --fs-64: 64px;
+    --fontLight: 300;
+    --fontRegular: 400;
+    --fontMedium: 500;
+    --fontBold: 700;
+  }
+    $bg-color: #036123;
+    $bg-white: #fff;
+    
+    $color-black: #47494E;
